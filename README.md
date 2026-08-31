@@ -1,4 +1,4 @@
-# Lei Hou Academic Website — V7
+# Lei Hou Academic Website
 
 ## Preview locally
 Open `index.html` in a browser.
