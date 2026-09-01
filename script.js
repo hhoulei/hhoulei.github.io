@@ -4,7 +4,7 @@ zh:{
  navAbout:"关于",navResearch:"研究",navProjects:"项目",navWorks:"论文",navJourney:"经历",navTeaching:"教学",allPubsShort:"ALL PAPERS ↗",
  heroRole:"山东大学公共卫生学院 · 副研究员",heroStatement:"以可迁移、可识别、可验证的统计方法，重建复杂生物医学数据中的因果结构。",exploreResearch:"VIEW RESEARCH ↓",
  statOutputs:"研究成果",statLeadCount:"近20篇",statLead:"第一 / 通讯作者论文",statProjects:"主持科研项目",statPillars:"核心研究方向",
- aboutTitle:"用方法理解复杂医学问题",aboutBody:"我主要从事生物统计、遗传统计与因果推断方法研究。核心兴趣不是为单一数据集寻找一个“最好看的答案”，而是在跨人群、跨环境、多源数据和真实世界偏倚存在时，建立仍然可识别、可迁移、可解释的因果证据。",positionText:"副研究员 · 山东大学公共卫生学院",
+ aboutTitle:"用方法理解复杂医学问题",aboutBody:"我主要从事大数据时代下生物统计、遗传统计与因果推断的创新统计方法及其应用研究。核心兴趣不是为单一数据集寻找一个“最好看的答案”，而是在跨人群、跨环境、多源数据和真实世界偏倚存在时，建立仍然可识别、可迁移、可解释的因果证据。",positionText:"副研究员 · 山东大学公共卫生学院",
  researchTitle:"构建可信的因果学习",
  r1Title:"跨人群与多源数据因果学习",r1Body:"研究人群异质、样本不平衡与多中心数据条件下的迁移学习、跨祖源MR与联邦因果推断，让证据能够跨场景迁移而不牺牲识别可靠性。",
  r2Title:"因果结构与机制发现",r2Body:"从单一因果效应走向结构：发展高维因果图、网络裁剪、多中介与路径识别方法，回答复杂疾病中“谁影响谁、通过什么机制”的问题。",
