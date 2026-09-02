@@ -15,7 +15,7 @@ zh:{
  journeyTitle:"从统计学走向因果方法",j4Title:"山东大学 · 公共卫生学院",j4Body:"副研究员 / Associate Research Fellow",j3Title:"北京大学 · 北京国际数学研究中心",j3Body:"博士后 / 助理研究员",j2Title:"山东大学 · 公共卫生学院",j2Body:"流行病与卫生统计学 · 博士",j1Title:"山东大学 · 数学与统计学院",j1Body:"统计学 · 学士",
  teachingTitle:"教学与教材建设",teachA:"教学",ugLabel:"本科生课程",gradLabel:"研究生课程",courseUG1:"《大数据流行病学技术》",courseUG1Meta:"16 学时 · 选修课",courseUG2:"《健康大数据编程基础》",courseUG2Meta:"16 学时 · 必修课",courseUG4:"《流行病与卫生统计》",courseUG4Meta:"48 学时 · 必修课",courseG1:"《生物统计中的数学基础》",courseG1Meta:"24 学时",teachingAwardsLabel:"教学成果与教材",teachBook1:"《大数据流行病学》副主编",teachBook2:"《统计学》副主编",teachAward1:"山东大学青年教师教学比赛二等奖",teachAward2:"山东大学公共卫生学院青年教师教学比赛二等奖",serviceTitle:"社会与学术兼职",serviceA:"社会兼职",service1:"中国现场统计学会因果推断分会理事",service2:"山东预防医学会消化病与健康分会委员",service3:"EngMedicine 医工交叉期刊青年编委",patentTitle:"专利与成果转化",patentA:"专利转化",patent1:"授权发明专利 1 项",patent2:"“一种基于因果网络不确定性推理的疾病预测预警系统”",patent3:"已完成科技成果转化",patentStatus:"已授权 · 已转化",
  footerQuote:"Build methods that survive heterogeneity.",
- pubTitle:"论文与研究成果",pubLead:"期刊论文同时显示中科院分区与近5年最高JIF。",metricNote:"指标口径：中科院分区采用2025升级版公开信息；“5Y Max IF”为2021–2025期间公开JCR记录中的最高JIF，四舍五入到1位小数。预印本及非JCR期刊标记为N/A。期刊指标会年度变化，正式申报前建议再次核验。",
+ pubTitle:"论文与研究成果",pubLead:"期刊论文同时显示中科院分区与近5年最高JIF。",metricNote:"指标口径：中科院分区采用2025升级版公开信息；“5Y Max IF”为2021–2025期间公开JCR记录中的最高JIF，四舍五入到1位小数。预印本及非JCR期刊标记为N/A。",
  searchLabel:"检索",searchPlaceholder:"题目 / 作者 / 期刊",filterAll:"全部",filterArticles:"期刊论文",filterPreprints:"预印本",allYears:"全部年份",resultsLabel:"项成果",noResults:"没有匹配结果。",articleLabel:"期刊论文",preprintLabel:"预印本",casLabel:"中科院",ifLabel:"5Y MAX IF"
 },
 en:{
