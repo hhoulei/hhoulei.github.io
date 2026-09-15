@@ -2,7 +2,7 @@
 const T={
 zh:{
  navAbout:"关于",navResearch:"研究",navProjects:"项目",navWorks:"论文",navJourney:"经历",navTeaching:"教学",allPubsShort:"ALL PAPERS ↗",
- heroRole:"山东大学公共卫生学院 · 副研究员",heroStatement:"以可迁移、可识别、可验证的创新统计方法，重建生物医学大数据中的因果结构。",exploreResearch:"VIEW RESEARCH ↓",
+ heroRole:"山东大学公共卫生学院 · 副研究员 · 硕导",heroStatement:"以可迁移、可识别、可验证的创新统计方法，重建生物医学大数据中的因果结构。",exploreResearch:"VIEW RESEARCH ↓",
  statOutputs:"研究成果",statLeadCount:"近20篇",statLead:"第一 / 通讯作者论文",statProjects:"主持科研项目",statPillars:"核心研究方向",
  aboutTitle:"用方法理解复杂医学问题",aboutBody:"我主要从事大数据时代下生物统计、遗传统计与因果推断的创新统计方法及其应用研究。核心兴趣不是为单一数据集寻找一个“最好看的答案”，而是在跨人群、跨环境、多源数据和真实世界偏倚存在时，建立仍然可识别、可迁移、可解释的因果证据。",positionText:"副研究员 · 山东大学公共卫生学院",
  researchTitle:"构建可信的因果学习",
